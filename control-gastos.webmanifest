@@ -1,0 +1,11 @@
+{
+  "name": "Control de gastos",
+  "short_name": "Gastos",
+  "description": "Control sencillo de gastos, saldos y ahorros",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#0b1220",
+  "lang": "es",
+  "icons": []
+}
