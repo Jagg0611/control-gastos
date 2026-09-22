@@ -1,4 +1,4 @@
-const CACHE_NAME = 'control-gastos-v3';
+const CACHE_NAME = 'control-gastos-v4';
 const APP_FILES = ['index.html', 'control-gastos.webmanifest'];
 
 self.addEventListener('install', event => {
